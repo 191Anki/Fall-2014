@@ -21,6 +21,7 @@
 - Continue working on view card (image problem),	Dillon
 - Change file management, 	Vamsi
 - Implementation: Repackaging/rezipping	Dillon, Vamsi
+
 # Week 10
 ## Initial Tasks
 - Conduct user testing sessions with medical students, Jazmynn/Wilbur
